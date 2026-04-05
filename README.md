@@ -59,7 +59,6 @@ Tenho experiência prática com desenvolvimento web, criação de formulários, 
   height="180em" 
   src="https://github-readme-stats-sigma-five.vercel.app/api?username=Vini8910&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
 />
-
 <img 
   align="left" 
   height="180em" 
@@ -67,6 +66,9 @@ Tenho experiência prática com desenvolvimento web, criação de formulários, 
 />
 
 <br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/>
+
 
 ---
 
